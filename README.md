@@ -1,4 +1,4 @@
 ### 
-live link: https://https://firebase-parctice.surge.sh/
+live link: https://firebase-parctice.surge.sh/
 
 
